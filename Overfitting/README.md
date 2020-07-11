@@ -5,6 +5,7 @@ Out-of-sample error and best fit functions have been generated for different num
 
 
 <img src="https://user-images.githubusercontent.com/56079783/87231300-5ffb7280-c3b6-11ea-8fb2-90e38feac41e.png" width="30%"></img>
+<img src="https://user-images.githubusercontent.com/56079783/87231301-5ffb7280-c3b6-11ea-98e9-374c0b12a130.png" width="30%"></img>
 
 
 
