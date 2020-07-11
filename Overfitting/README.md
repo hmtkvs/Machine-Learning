@@ -5,7 +5,7 @@ Out-of-sample error and best fit functions have been generated for different num
 
 
 
-<img src="https://github.com/hmtkvs/Machine-Learning/tree/master/Overfitting/images/bestFit-1.png" width="350"></img>
+![bestFit-1](https://user-images.githubusercontent.com/56079783/87231300-5ffb7280-c3b6-11ea-8fb2-90e38feac41e.png)
 
 
 Data is normalized and Legendre polynomials are used to   
